@@ -28,6 +28,7 @@
               "projects/angular-tailwind-demo/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "projects/angular-tailwind-demo/src/styles.scss"
             ],
             "scripts": []
@@ -91,6 +92,7 @@
               "projects/angular-tailwind-demo/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "projects/angular-tailwind-demo/src/styles.scss"
             ],
             "scripts": []
